@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/color_fill.dir/main.cpp.o -o color_fill  ../../P0267_RefImpl/cairo/xlib/libio2d_cairo_xlib.a ../../P0267_RefImpl/cairo/libio2d_cairo.a ../../P0267_RefImpl/libio2d_core.a /usr/lib/x86_64-linux-gnu/libcairo.so /usr/lib/libGraphicsMagick.so -lpixman-1 -lfreetype -lfontconfig -lbz2 -lz -ljpeg -lpng -ltiff -lexpat -llzma -lX11 
